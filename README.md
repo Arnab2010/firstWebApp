@@ -1,4 +1,4 @@
 # firstWebApp
-my web app college projct
-# i am making a shoping projct to help piple understand wat to buy and not 
-please correct my english if needed
+My web app college project.
+# I am making a shopping project to help people understand what to buy and what to not. 
+
